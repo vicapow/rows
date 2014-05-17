@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 
 var csv = require('csv')
   , vm = require('vm')
