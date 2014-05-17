@@ -1,0 +1,19 @@
+{
+  "name": "rows",
+  "version": "0.0.0",
+  "description": "A small commandline utility for working with CSV files",
+  "main": "index.js",
+  "dependencies": {
+    "csv": "~0.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "commandline"
+  ],
+  "author": "Victor Powell",
+  "license": "BSD-2-Clause"
+}
