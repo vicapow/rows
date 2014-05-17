@@ -1,6 +1,8 @@
 
 
-# Rows is a small command line utility that makes it easy to analyze small CSV files.
+# Rows 
+
+Rows is a small command line utility that makes it easy to analyze small CSV files.
 
 ## Example uses
 
